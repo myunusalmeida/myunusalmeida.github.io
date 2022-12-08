@@ -59,6 +59,9 @@ xhttp.onreadystatechange = function () {
     // JUMLAH DATA
     document.getElementById("countsourcecode").innerText =
       data.sourcecode.length;
+    document.getElementById("countecourses").innerText = data.ecourses.length;
+    document.getElementById("countecoursestext").innerText =
+      data.ecourses.length + " Kelas";
   }
 };
 
