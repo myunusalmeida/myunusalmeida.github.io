@@ -1,0 +1,42 @@
+{
+    "socials": {
+        "linkedin": "https://www.linkedin.com/in/muhammad-yunusalmeida-801570207/",
+        "youtube": "https://www.youtube.com",
+        "github": "https://www.github.com/myunusalmeida",
+        "instagram": "https://www.instagram.com/yunusalmeida_",
+        "whatsapp": "https://wa.me/6285161363585",
+        "tiktok": "https://www.tiktok.com/@yunusalmeida?_t=8Y0ALxDOtLV&_r=1"
+    },
+    "sourcecode": [
+        {
+            "image": "login-part-1.png",
+            "title": "Halaman Login Part 1",
+            "description": "Bikin halaman login untuk projek yang ada authenticationnya",
+            "type": "HTML & CSS",
+            "preview": "https://myunusalmeida.github.io/login-page-part-1/",
+            "code": "https://github.com/myunusalmeida/login-page-part-1"
+        },
+        {
+            "image": "animated-popup-video.png",
+            "title": "Animated Popup Video",
+            "description": "Bikin animated popup video metode onclick dengan HTML CSS dan juga Javascript",
+            "type": "HTML CSS JS",
+            "preview": "https://myunusalmeida.github.io/animation-video-popup-onclick/",
+            "code": "https://github.com/myunusalmeida/animation-video-popup-onclick"
+        }
+    ],
+    "ecourses": [
+        {
+            "image": "cover-ecourse-full-stack.png",
+            "title": "E-Course Full-Stack Developer: Laravel Pride",
+            "type": "Full-Stack Developer",
+            "link": "https://academy.onlenkan.com"
+        },
+        {
+            "image": "cover-ecourse-laravel.png",
+            "title": "E-Course Mastering Laravel: From Zero To Hero",
+            "type": "Full-Stack Developer",
+            "link": "https://academy.onlenkan.com"
+        }
+    ]
+}

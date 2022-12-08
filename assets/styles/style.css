@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alef:wght@400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #212226;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+.fs-7 {
+  font-size: 14px;
+}
+
+.fs-8 {
+  font-size: 12px;
+}
+
+.text-light {
+  color: #b5b5b5 !important;
+}
+
+.btn-primary {
+  background-color: #8739FA;
+  border-color: #8739FA;
+}
+
+.btn-primary:hover {
+  background-color: #9c5bfe !important;
+  border-color: #9c5bfe !important;
+}
+
+.btn-secondary {
+  background-color: #212226;
+  border-color: #212226;
+}
+
+.bg-primary {
+  background-color: #8739FA !important;
+}
+
+.bg-dark {
+  background-color: #212226 !important;
+}
+
+.personal-informations .profile {
+  width: 110px;
+  height: 110px;
+  border: 2px solid #d3d3d3;
+  border-radius: 50%;
+}
+.personal-informations .profile img {
+  width: 100px;
+  height: 100px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
+}
+
+.nav-tabs .nav-item {
+  padding: 6px;
+  background-color: #2F2E34;
+}
+.nav-tabs .nav-item .nav-link {
+  background-color: #212226;
+  border-color: #212226;
+  color: #FFFFFF;
+}
+.nav-tabs .nav-item .nav-link.active, .nav-tabs .nav-item .nav-link:hover {
+  background-color: #8739FA;
+  border-color: #8739FA;
+}
+.nav-tabs .nav-item .nav-link.active .badge, .nav-tabs .nav-item .nav-link:hover .badge {
+  background-color: #FFFFFF !important;
+  color: #8739FA;
+}
+@media screen and (max-width: 768px) {
+  .nav-tabs .nav-item {
+    padding: 4px;
+  }
+  .nav-tabs .nav-item .nav-link {
+    font-size: 14px;
+  }
+}
+
+.contents {
+  background-color: #2F2E34;
+  width: 100%;
+  border-radius: 10px;
+}
+.contents .badge {
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+}
+.contents .badge .dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50px;
+  display: block;
+  background-color: #8739FA;
+}
+
+.card.contents h5 {
+  font-size: 18px;
+}
+@media screen and (max-width: 768px) {
+  .card.contents h5 {
+    font-size: 16px;
+  }
+}/*# sourceMappingURL=style.css.map */
