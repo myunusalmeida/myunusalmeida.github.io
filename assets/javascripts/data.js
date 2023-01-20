@@ -48,6 +48,23 @@ xhttp.onreadystatechange = function () {
             `;
     });
 
+    // YOUTUBE
+    data.youtube.forEach(function (e) {
+      document.getElementById("youtubelist").innerHTML += `
+        <div class="col-md-6">
+            <a href="${e.link}" class="card contents border-0 mb-3" target="_blank">
+                <img src="assets/images/youtube/${e.image}" alt="${e.title}" class="card-img-top" />
+                <div class="card-body">
+                    <span class="badge bg-dark rounded-pill d-flex align-items-center text-center gap-2 fs-8 fw-semibold">
+                        <i class="dot"></i> ${e.type}
+                    </span>
+                    <h5 class="text-white fw-semibold mt-2">${e.title}</h5>
+                </div>
+            </a>
+        </div>
+            `;
+    });
+
     // SOCIALS MEDIA
     document.getElementById("linkedin").href = data.socials.linkedin;
     document.getElementById("youtube").href = data.socials.youtube;
@@ -57,6 +74,8 @@ xhttp.onreadystatechange = function () {
     document.getElementById("tiktok").href = data.socials.tiktok;
 
     // JUMLAH DATA
+    document.getElementById("countyoutube").innerText =
+      data.youtube.length;
     document.getElementById("countsourcecode").innerText =
       data.sourcecode.length;
     document.getElementById("countecourses").innerText = data.ecourses.length;

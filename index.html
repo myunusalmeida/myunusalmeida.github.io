@@ -144,6 +144,21 @@
             <li class="nav-item rounded-3" role="presentation">
               <button
                 class="nav-link fw-semibold d-flex align-items-center gap-2 rounded-3 active"
+                id="youtube-tab"
+                data-bs-toggle="tab"
+                data-bs-target="#youtubeTab"
+                type="button"
+                role="tab"
+                aria-controls="youtube"
+                aria-selected="false"
+              >
+                YouTube
+                <span class="badge bg-primary" id="countyoutube"></span>
+              </button>
+            </li>
+            <li class="nav-item rounded-3" role="presentation">
+              <button
+                class="nav-link fw-semibold d-flex align-items-center gap-2 rounded-3"
                 id="sourcecode-tab"
                 data-bs-toggle="tab"
                 data-bs-target="#sourcecode"
@@ -184,7 +199,7 @@
               <p class="text-center text-danger">Coming Soon</p>
             </div>
             <div
-              class="tab-pane fade show active"
+              class="tab-pane fade"
               id="sourcecode"
               role="tabpanel"
               aria-labelledby="sourcecode-tab"
@@ -203,6 +218,15 @@
               tabindex="0"
             >
               <div class="row" id="ecourseslist"></div>
+            </div>
+            <div
+              class="tab-pane fade show active"
+              id="youtubeTab"
+              role="tabpanel"
+              aria-labelledby="youtubeTab"
+              tabindex="0"
+            >
+              <div class="row justify-content-center" id="youtubelist"></div>
             </div>
           </div>
         </div>
