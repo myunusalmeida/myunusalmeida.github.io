@@ -28,7 +28,7 @@
     "ecourses": [
         {
             "image": "cover-ecourse-full-stack.png",
-            "title": "E-Course Full-Stack Developer: Laravel Pride",
+            "title": "E-Course Full-Stack Website Developer: Laravel Pride",
             "type": "Full-Stack Developer",
             "link": "https://academy.onlenkan.com"
         },
@@ -41,10 +41,22 @@
     ],
     "youtube": [
         {
+            "image": "bikin-web-sederhana-dengan-bootstrap.png",
+            "title": "BIKIN WEBSITE DENGAN BOOTSTRAP | DIJELASIN FUNGSI CLASS NYA - Salah Satu Video E-Course Full-Stack Web Developer",
+            "type": "HTML CSS BOOTSTRAP",
+            "link": "https://www.youtube.com/watch?v=RWAgxbN27Ms"
+        },
+        {
+            "image": "belajar-bootstrap-dari-0.png",
+            "title": "30 MENIT MEMAHAMI BOOTSTRAP DARI 0 | Salah Satu Video E-Course Full-Stack Web Developer",
+            "type": "BOOTSTRAP",
+            "link": "https://www.youtube.com/watch?v=7dNe5Ub9F0Y&t=40s"
+        },
+        {
             "image": "personal-website.png",
             "title": "1 JAM MEMBUAT WEBSITE PORTFOLIO | Dengan HTML CSS Bootstrap",
             "type": "HTML CSS BOOTSTRAP",
-            "link": "https://www.youtube.com/watch?v=4TEtR_HvCZk&t=4415s&ab_channel=YunusAlmeida"
+            "link": "https://www.youtube.com/watch?v=4TEtR_HvCZk&t=255s"
         }
     ]
 }

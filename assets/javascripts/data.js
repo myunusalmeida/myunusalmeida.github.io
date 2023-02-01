@@ -34,7 +34,7 @@ xhttp.onreadystatechange = function () {
     // ECOURSES
     data.ecourses.forEach(function (e) {
       document.getElementById("ecourseslist").innerHTML += `
-        <div class="col-md-4">
+        <div class="col-md-6">
             <a href="${e.link}" class="card contents border-0 mb-3" target="_blank">
                 <img src="assets/images/ecourses/${e.image}" alt="${e.title}" class="card-img-top" />
                 <div class="card-body">
