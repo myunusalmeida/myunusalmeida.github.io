@@ -41,6 +41,12 @@
     ],
     "youtube": [
         {
+            "image": "1-jam-paham-crud-laravel.png",
+            "title": "1 JAM PAHAM CRUD LARAVEL | DISERTAI PENJELASAN",
+            "type": "Laravel",
+            "link": "https://www.youtube.com/watch?v=2uidB3wm9MQ"
+        },
+        {
             "image": "bikin-web-sederhana-dengan-bootstrap.png",
             "title": "BIKIN WEBSITE DENGAN BOOTSTRAP | DIJELASIN FUNGSI CLASS NYA - Salah Satu Video E-Course Full-Stack Web Developer",
             "type": "HTML CSS BOOTSTRAP",
