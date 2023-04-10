@@ -41,6 +41,12 @@
     ],
     "youtube": [
         {
+            "image": "upload-image-laravel.png",
+            "title": "CRUD LARAVEL WITH UPLOAD IMAGE",
+            "type": "Laravel",
+            "link": "https://youtu.be/oPLvMAx01EE"
+        },
+        {
             "image": "1-jam-paham-crud-laravel.png",
             "title": "1 JAM PAHAM CRUD LARAVEL | DISERTAI PENJELASAN",
             "type": "Laravel",
