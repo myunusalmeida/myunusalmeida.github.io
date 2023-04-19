@@ -51,7 +51,7 @@ xhttp.onreadystatechange = function () {
     // YOUTUBE
     data.youtube.forEach(function (e) {
       document.getElementById("youtubelist").innerHTML += `
-        <div class="col-md-6">
+        <div class="col-md-4">
             <a href="${e.link}" class="card contents border-0 mb-3" target="_blank">
                 <img src="assets/images/youtube/${e.image}" alt="${e.title}" class="card-img-top" />
                 <div class="card-body">
