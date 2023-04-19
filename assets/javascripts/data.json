@@ -1,74 +1,86 @@
 {
-    "socials": {
-        "linkedin": "https://www.linkedin.com/in/muhammad-yunusalmeida-801570207/",
-        "youtube": "https://www.youtube.com/@muhammadyunusalmeida9988",
-        "github": "https://www.github.com/myunusalmeida",
-        "instagram": "https://www.instagram.com/yunusalmeida_",
-        "whatsapp": "https://wa.me/6281336210025",
-        "tiktok": "https://www.tiktok.com/@yunusalmeida?_t=8Y0ALxDOtLV&_r=1"
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/muhammad-yunusalmeida-801570207/",
+    "youtube": "https://www.youtube.com/@muhammadyunusalmeida9988",
+    "github": "https://www.github.com/myunusalmeida",
+    "instagram": "https://www.instagram.com/yunusalmeida_",
+    "whatsapp": "https://wa.me/6281336210025",
+    "tiktok": "https://www.tiktok.com/@yunusalmeida?_t=8Y0ALxDOtLV&_r=1"
+  },
+  "sourcecode": [
+    {
+      "image": "login-part-1.png",
+      "title": "Halaman Login Part 1",
+      "description": "Bikin halaman login untuk projek yang ada authenticationnya",
+      "type": "HTML & CSS",
+      "preview": "https://myunusalmeida.github.io/login-page-part-1/",
+      "code": "https://github.com/myunusalmeida/login-page-part-1"
     },
-    "sourcecode": [
-        {
-            "image": "login-part-1.png",
-            "title": "Halaman Login Part 1",
-            "description": "Bikin halaman login untuk projek yang ada authenticationnya",
-            "type": "HTML & CSS",
-            "preview": "https://myunusalmeida.github.io/login-page-part-1/",
-            "code": "https://github.com/myunusalmeida/login-page-part-1"
-        },
-        {
-            "image": "animated-popup-video.png",
-            "title": "Animated Popup Video",
-            "description": "Bikin animated popup video metode onclick dengan HTML CSS dan juga Javascript",
-            "type": "HTML CSS JS",
-            "preview": "https://myunusalmeida.github.io/animation-video-popup-onclick/",
-            "code": "https://github.com/myunusalmeida/animation-video-popup-onclick"
-        }
-    ],
-    "ecourses": [
-        {
-            "image": "cover-ecourse-full-stack.png",
-            "title": "E-Course Full-Stack Website Developer: Laravel Pride",
-            "type": "Full-Stack Developer",
-            "link": "https://academy.onlenkan.com"
-        },
-        {
-            "image": "cover-ecourse-laravel.png",
-            "title": "E-Course Mastering Laravel: From Zero To Hero",
-            "type": "Full-Stack Developer",
-            "link": "https://academy.onlenkan.com"
-        }
-    ],
-    "youtube": [
-        {
-            "image": "upload-image-laravel.png",
-            "title": "CRUD LARAVEL WITH UPLOAD IMAGE",
-            "type": "Laravel",
-            "link": "https://youtu.be/oPLvMAx01EE"
-        },
-        {
-            "image": "1-jam-paham-crud-laravel.png",
-            "title": "1 JAM PAHAM CRUD LARAVEL | DISERTAI PENJELASAN",
-            "type": "Laravel",
-            "link": "https://www.youtube.com/watch?v=2uidB3wm9MQ"
-        },
-        {
-            "image": "bikin-web-sederhana-dengan-bootstrap.png",
-            "title": "BIKIN WEBSITE DENGAN BOOTSTRAP | DIJELASIN FUNGSI CLASS NYA - Salah Satu Video E-Course Full-Stack Web Developer",
-            "type": "HTML CSS BOOTSTRAP",
-            "link": "https://www.youtube.com/watch?v=RWAgxbN27Ms"
-        },
-        {
-            "image": "belajar-bootstrap-dari-0.png",
-            "title": "30 MENIT MEMAHAMI BOOTSTRAP DARI 0 | Salah Satu Video E-Course Full-Stack Web Developer",
-            "type": "BOOTSTRAP",
-            "link": "https://www.youtube.com/watch?v=7dNe5Ub9F0Y&t=40s"
-        },
-        {
-            "image": "personal-website.png",
-            "title": "1 JAM MEMBUAT WEBSITE PORTFOLIO | Dengan HTML CSS Bootstrap",
-            "type": "HTML CSS BOOTSTRAP",
-            "link": "https://www.youtube.com/watch?v=4TEtR_HvCZk&t=255s"
-        }
-    ]
+    {
+      "image": "animated-popup-video.png",
+      "title": "Animated Popup Video",
+      "description": "Bikin animated popup video metode onclick dengan HTML CSS dan juga Javascript",
+      "type": "HTML CSS JS",
+      "preview": "https://myunusalmeida.github.io/animation-video-popup-onclick/",
+      "code": "https://github.com/myunusalmeida/animation-video-popup-onclick"
+    }
+  ],
+  "ecourses": [
+    {
+      "image": "cover-ecourse-full-stack.png",
+      "title": "E-Course Full-Stack Website Developer: Laravel Pride",
+      "type": "Full-Stack Developer",
+      "link": "https://academy.onlenkan.com"
+    },
+    {
+      "image": "cover-ecourse-laravel.png",
+      "title": "E-Course Mastering Laravel: From Zero To Hero",
+      "type": "Full-Stack Developer",
+      "link": "https://academy.onlenkan.com"
+    }
+  ],
+  "youtube": [
+    {
+      "image": "tutorial-html-css-js-part-2.png",
+      "title": "TUTORIAL HTML CSS JS BOOTSTRAP | WEB PORTFOLIO",
+      "type": "HTML CSS JS BOOTSTRAP",
+      "link": "https://www.youtube.com/watch?v=oakUkpHEptg"
+    },
+    {
+      "image": "laravel-breeze-laravel-ui.png",
+      "title": "Autentikasi Laravel, Laravel Breeze atau Laravel UI?",
+      "type": "Laravel",
+      "link": "https://www.youtube.com/watch?v=2gwziVJPHaA"
+    },
+    {
+      "image": "upload-image-laravel.png",
+      "title": "CRUD LARAVEL WITH UPLOAD IMAGE",
+      "type": "Laravel",
+      "link": "https://youtu.be/oPLvMAx01EE"
+    },
+    {
+      "image": "1-jam-paham-crud-laravel.png",
+      "title": "1 JAM PAHAM CRUD LARAVEL | DISERTAI PENJELASAN",
+      "type": "Laravel",
+      "link": "https://www.youtube.com/watch?v=2uidB3wm9MQ"
+    },
+    {
+      "image": "bikin-web-sederhana-dengan-bootstrap.png",
+      "title": "BIKIN WEBSITE DENGAN BOOTSTRAP | DIJELASIN FUNGSI CLASS NYA - Salah Satu Video E-Course Full-Stack Web Developer",
+      "type": "HTML CSS BOOTSTRAP",
+      "link": "https://www.youtube.com/watch?v=RWAgxbN27Ms"
+    },
+    {
+      "image": "belajar-bootstrap-dari-0.png",
+      "title": "30 MENIT MEMAHAMI BOOTSTRAP DARI 0 | Salah Satu Video E-Course Full-Stack Web Developer",
+      "type": "BOOTSTRAP",
+      "link": "https://www.youtube.com/watch?v=7dNe5Ub9F0Y&t=40s"
+    },
+    {
+      "image": "personal-website.png",
+      "title": "1 JAM MEMBUAT WEBSITE PORTFOLIO | Dengan HTML CSS Bootstrap",
+      "type": "HTML CSS BOOTSTRAP",
+      "link": "https://www.youtube.com/watch?v=4TEtR_HvCZk&t=255s"
+    }
+  ]
 }
