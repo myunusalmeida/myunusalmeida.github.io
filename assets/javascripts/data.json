@@ -41,7 +41,13 @@
   ],
   "youtube": [
     {
-      "image": "tutorial-html-css-js-part-2.png",
+      "image": "navbar-scroll-animation.png",
+      "title": "BIKIN ANIMASI CHANGE BACKGROUND NAVBAR SCROLLER",
+      "type": "HTML CSS JS BOOTSTRAP",
+      "link": "https://www.youtube.com/watch?v=daUxG5dFoiw"
+    },
+    {
+      "image": "personal-website-2.png",
       "title": "TUTORIAL HTML CSS JS BOOTSTRAP | WEB PORTFOLIO",
       "type": "HTML CSS JS BOOTSTRAP",
       "link": "https://www.youtube.com/watch?v=oakUkpHEptg"
@@ -66,13 +72,13 @@
     },
     {
       "image": "bikin-web-sederhana-dengan-bootstrap.png",
-      "title": "BIKIN WEBSITE DENGAN BOOTSTRAP | DIJELASIN FUNGSI CLASS NYA - Salah Satu Video E-Course Full-Stack Web Developer",
+      "title": "BIKIN WEB LANDING PAGE SEDERHANA DENGAN BOOTSTRAP",
       "type": "HTML CSS BOOTSTRAP",
       "link": "https://www.youtube.com/watch?v=RWAgxbN27Ms"
     },
     {
       "image": "belajar-bootstrap-dari-0.png",
-      "title": "30 MENIT MEMAHAMI BOOTSTRAP DARI 0 | Salah Satu Video E-Course Full-Stack Web Developer",
+      "title": "30 MENIT MEMAHAMI BOOTSTRAP DARI 0 SAMPAI BISA",
       "type": "BOOTSTRAP",
       "link": "https://www.youtube.com/watch?v=7dNe5Ub9F0Y&t=40s"
     },
