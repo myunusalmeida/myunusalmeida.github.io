@@ -41,6 +41,12 @@
   ],
   "youtube": [
     {
+      "image": "responsive-navbar-1.png",
+      "title": "Tutorial HTML CSS JS | Membuat Responsive Navbar",
+      "type": "HTML CSS JS",
+      "link": "https://youtu.be/BhoYoXD_Ie8"
+    },
+    {
       "image": "sticky-navbar-animation.png",
       "title": "BIKIN ANIMASI CHANGE BACKGROUND NAVBAR SCROLLER",
       "type": "HTML CSS JS BOOTSTRAP",
