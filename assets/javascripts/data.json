@@ -4,7 +4,7 @@
     "youtube": "https://www.youtube.com/@muhammadyunusalmeida9988",
     "github": "https://www.github.com/myunusalmeida",
     "instagram": "https://www.instagram.com/yunusalmeida_",
-    "whatsapp": "https://wa.me/6281336210025",
+    "whatsapp": "https://wa.me/6285161363585",
     "tiktok": "https://www.tiktok.com/@yunusalmeida?_t=8Y0ALxDOtLV&_r=1"
   },
   "sourcecode": [
@@ -40,6 +40,24 @@
     }
   ],
   "youtube": [
+    {
+      "image": "personal-website.png",
+      "title": "1 JAM MEMBUAT WEBSITE PORTFOLIO | Dengan HTML CSS Bootstrap",
+      "type": "HTML CSS BOOTSTRAP",
+      "link": "https://www.youtube.com/watch?v=4TEtR_HvCZk&t=255s"
+    },
+    {
+      "image": "kuis-javascript.png",
+      "title": "JAVASCRIPT STUDI KASUS - MEMBUAT KUIS APP DARI 0",
+      "type": "Javascript",
+      "link": "https://youtu.be/U0SG2LZLhY4"
+    },
+    {
+      "image": "age-calculator.png",
+      "title": "JAVASCRIPT STUDI KASUS - KALKULATOR UMUR",
+      "type": "Javascript",
+      "link": "https://www.youtube.com/watch?v=OWvFertKWE8"
+    },
     {
       "image": "responsive-navbar-1.png",
       "title": "Tutorial HTML CSS JS | Membuat Responsive Navbar",
@@ -87,12 +105,6 @@
       "title": "30 MENIT MEMAHAMI BOOTSTRAP DARI 0 SAMPAI BISA",
       "type": "BOOTSTRAP",
       "link": "https://www.youtube.com/watch?v=7dNe5Ub9F0Y&t=40s"
-    },
-    {
-      "image": "personal-website.png",
-      "title": "1 JAM MEMBUAT WEBSITE PORTFOLIO | Dengan HTML CSS Bootstrap",
-      "type": "HTML CSS BOOTSTRAP",
-      "link": "https://www.youtube.com/watch?v=4TEtR_HvCZk&t=255s"
     }
   ]
 }
