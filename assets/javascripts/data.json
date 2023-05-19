@@ -47,6 +47,18 @@
       "link": "https://www.youtube.com/watch?v=4TEtR_HvCZk&t=255s"
     },
     {
+      "image": "card-animation-css-1.png",
+      "title": "BIKIN CARD HOVER ANIMASI ELEGAN DENGAN CSS",
+      "type": "HTML & CSS",
+      "link": "https://www.youtube.com/watch?v=ok-y7tPq42E"
+    },
+    {
+      "image": "search-otomatis.png",
+      "title": "BIKIN FITUR PENCARIAN OTOMATIS DENGAN JS",
+      "type": "Javascript",
+      "link": "https://www.youtube.com/watch?v=7N6aoj6VZyo"
+    },
+    {
       "image": "kuis-javascript.png",
       "title": "JAVASCRIPT STUDI KASUS - MEMBUAT KUIS APP DARI 0",
       "type": "Javascript",
