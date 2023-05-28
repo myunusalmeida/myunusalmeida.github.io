@@ -9,20 +9,25 @@
   },
   "sourcecode": [
     {
-      "image": "login-part-1.png",
-      "title": "Halaman Login Part 1",
-      "description": "Bikin halaman login untuk projek yang ada authenticationnya",
-      "type": "HTML & CSS",
-      "preview": "https://myunusalmeida.github.io/login-page-part-1/",
-      "code": "https://github.com/myunusalmeida/login-page-part-1"
+      "image": "qr-code.png",
+      "title": "QR-Code Generator dengan Javascript",
+      "description": "Website dengan fitur membuat QR-Code melalui link yang dikirimkan user.",
+      "type": "Javascript",
+      "code": "https://github.com/myunusalmeida/qr-code-generator-javascript"
     },
     {
-      "image": "animated-popup-video.png",
-      "title": "Animated Popup Video",
-      "description": "Bikin animated popup video metode onclick dengan HTML CSS dan juga Javascript",
+      "image": "sidebar-menu.png",
+      "title": "Sidebar Menu dengan HTML CSS JS",
+      "description": "Komponen website sidebar menu yang bisa kamu implementasikan di projek dashboardmu.",
       "type": "HTML CSS JS",
-      "preview": "https://myunusalmeida.github.io/animation-video-popup-onclick/",
-      "code": "https://github.com/myunusalmeida/animation-video-popup-onclick"
+      "code": "https://github.com/myunusalmeida/sidebar-dashboard-1"
+    },
+    {
+      "image": "login-1.png",
+      "title": "Log In Page",
+      "description": "Halaman Log In yang dibuat dengan HTML CSS/SCSS yang cocok untuk projekmu yang ada loginnya.",
+      "type": "HTML SCSS",
+      "code": "https://github.com/myunusalmeida/login-pt-1"
     }
   ],
   "ecourses": [

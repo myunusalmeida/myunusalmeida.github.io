@@ -6,29 +6,21 @@ xhttp.onreadystatechange = function () {
     // SOURCE CODE
     data.sourcecode.forEach(function (e) {
       document.getElementById("contentSourceCode").innerHTML += `
-            <div class="row align-items-center justify-content-center mb-5 pb-5 border-bottom border-secondary">
-                <div class="col-md-2 col-6">
-                    <img src="assets/images/contents/${e.image}" alt="" class="rounded-3" />
-                </div>
-                <div class="col-md-6">
-                    <h5 class="text-center text-md-start text-white fw-semibold mt-3 mt-md-0">
-                        ${e.title}
-                    </h5>
-                    <p class="text-center text-md-start text-light fs-7">
-                        ${e.description}
-                    </p>
-                    <span class="badge bg-dark rounded-pill d-flex align-items-center mx-auto mx-md-0 text-center gap-2 fs-8 fw-semibold">
-                        <i class="dot"></i> ${e.type}
-                    </span>
-                </div>
-                <div class="col-md-4">
-                    <div class="d-flex align-items-center justify-content-center justify-content-md-end gap-2 mt-3 mt-md-0">
-                        <a target="_blank" href="${e.preview}" class="btn btn-secondary fw-semibold">Preview</a>
-                        <a target="_blank" href="${e.code}" class="btn btn-primary fw-semibold">Code <i class="ai-arrow-right"></i></a>
+            <div class="col-md-4">
+                <a href="${e.code}" class="card contents border-0 mb-3" target="_blank">
+                    <img src="assets/images/contents/${e.image}" alt="${e.title}" class="card-img-top" />
+                    <div class="card-body">
+                        <span class="badge bg-dark rounded-pill d-flex align-items-center text-center gap-2 fs-8 fw-semibold">
+                            <i class="dot"></i> ${e.type}
+                        </span>
+                        <h5 class="text-white fw-semibold mt-2">${e.title}</h5>
+                        <p class="text-center text-md-start text-light fs-7">
+                            ${e.description}
+                        </p>
                     </div>
-                </div>
+                </a>
             </div>
-            `;
+        `;
     });
 
     // ECOURSES
