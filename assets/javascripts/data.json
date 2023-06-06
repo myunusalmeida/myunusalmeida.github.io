@@ -9,10 +9,24 @@
   },
   "sourcecode": [
     {
+      "image": "tooltip.png",
+      "title": "Tooltip Animation dengan CSS",
+      "description": "Komponen website tooltip animation dengan CSS.",
+      "type": "HTML CSS",
+      "code": "https://codepen.io/milanraring/pen/JjoamZx"
+    },
+    {
+      "image": "form-validation.png",
+      "title": "Form Validation dengan Javascript",
+      "description": "Form Input dengan Validasi, dibangun dengan Javascript dan HTML.",
+      "type": "JAVASCRIPT",
+      "code": "https://academy.onlenkan.com/source-code/form-validation-dengan-javascript"
+    },
+    {
       "image": "qr-code.png",
       "title": "QR-Code Generator dengan Javascript",
       "description": "Website dengan fitur membuat QR-Code melalui link yang dikirimkan user.",
-      "type": "Javascript",
+      "type": "JAVASCRIPT",
       "code": "https://github.com/myunusalmeida/qr-code-generator-javascript"
     },
     {
@@ -20,14 +34,14 @@
       "title": "Sidebar Menu dengan HTML CSS JS",
       "description": "Komponen website sidebar menu yang bisa kamu implementasikan di projek dashboardmu.",
       "type": "HTML CSS JS",
-      "code": "https://github.com/myunusalmeida/sidebar-dashboard-1"
+      "code": "https://academy.onlenkan.com/source-code/sidebar-menu-dashboard-1"
     },
     {
       "image": "login-1.png",
       "title": "Log In Page",
       "description": "Halaman Log In yang dibuat dengan HTML CSS/SCSS yang cocok untuk projekmu yang ada loginnya.",
       "type": "HTML SCSS",
-      "code": "https://github.com/myunusalmeida/login-pt-1"
+      "code": "https://academy.onlenkan.com/source-code/login-page-1"
     }
   ],
   "ecourses": [
@@ -52,9 +66,33 @@
       "link": "https://www.youtube.com/watch?v=4TEtR_HvCZk&t=255s"
     },
     {
+      "image": "linktree-sederhana.png",
+      "title": "Tutorial Bikin Linktree Sederhana Menggunakan Bootstrap",
+      "type": "BOOTSTRAP",
+      "link": "https://www.youtube.com/watch?v=PIsCgLiakzU"
+    },
+    {
+      "image": "change-bg-input-js.png",
+      "title": "Tutorial Bikin Website Ganti Background Dengan Input JS",
+      "type": "JAVASCRIPT",
+      "link": "https://www.youtube.com/watch?v=-_-tsWWIusA"
+    },
+    {
+      "image": "contact-form-bootstrap.png",
+      "title": "Contact Form Dengan Desain Gege Boostrap",
+      "type": "BOOTSTRAP",
+      "link": "https://www.youtube.com/watch?v=ymHyt6TQhmA"
+    },
+    {
+      "image": "form-validation.png",
+      "title": "Tutorial Membuat Form Validation dengan Javascript",
+      "type": "HTML JAVASCRIPT",
+      "link": "https://youtu.be/kAXiyZ7O1y8"
+    },
+    {
       "image": "form-wa.png",
       "title": "Tutorial Bikin Form Input Yang Redirect ke WA dengan HTML & Javascript",
-      "type": "HTML Javascript",
+      "type": "HTML JAVASCRIPT",
       "link": "https://youtu.be/E5KY4XfVZVo"
     },
     {
@@ -66,19 +104,19 @@
     {
       "image": "search-otomatis.png",
       "title": "BIKIN FITUR PENCARIAN OTOMATIS DENGAN JS",
-      "type": "Javascript",
+      "type": "JAVASCRIPT",
       "link": "https://www.youtube.com/watch?v=7N6aoj6VZyo"
     },
     {
       "image": "kuis-javascript.png",
       "title": "JAVASCRIPT STUDI KASUS - MEMBUAT KUIS APP DARI 0",
-      "type": "Javascript",
+      "type": "JAVASCRIPT",
       "link": "https://youtu.be/U0SG2LZLhY4"
     },
     {
       "image": "age-calculator.png",
       "title": "JAVASCRIPT STUDI KASUS - KALKULATOR UMUR",
-      "type": "Javascript",
+      "type": "JAVASCRIPT",
       "link": "https://www.youtube.com/watch?v=OWvFertKWE8"
     },
     {
