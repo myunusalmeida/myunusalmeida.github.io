@@ -66,6 +66,12 @@
       "link": "https://www.youtube.com/watch?v=4TEtR_HvCZk&t=255s"
     },
     {
+      "image": "middleware-1.png",
+      "title": "Tutorial Middleware pada Laravel",
+      "type": "Laravel",
+      "link": "https://www.youtube.com/watch?v=jOHASf_bEqg"
+    },
+    {
       "image": "linktree-sederhana.png",
       "title": "Tutorial Bikin Linktree Sederhana Menggunakan Bootstrap",
       "type": "BOOTSTRAP",
