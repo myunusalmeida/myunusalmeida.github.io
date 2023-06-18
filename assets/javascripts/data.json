@@ -66,6 +66,12 @@
       "link": "https://www.youtube.com/watch?v=4TEtR_HvCZk&t=255s"
     },
     {
+      "image": "prefix-group.png",
+      "title": "PREFIX ROUTE PADA LARAVEL DAN CARA PENGGUNAANNYA | DISERTA PENJELASAN DETAIL",
+      "type": "Laravel",
+      "link": "https://youtu.be/3_nO4Mcr4mg"
+    },
+    {
       "image": "middleware-1.png",
       "title": "Tutorial Middleware pada Laravel",
       "type": "Laravel",
