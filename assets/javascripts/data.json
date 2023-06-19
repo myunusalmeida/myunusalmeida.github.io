@@ -9,6 +9,13 @@
   },
   "sourcecode": [
     {
+      "image": "hide-navbar.png",
+      "title": "Hide Navbar Ketika User Scroll Down",
+      "description": "Hide navbar ketika user scroll ke bawah dan ada ketika scroll keatas.",
+      "type": "HTML CSS JS",
+      "code": "https://codepen.io/myunusalmeida/pen/LYXNKqr"
+    },
+    {
       "image": "tooltip.png",
       "title": "Tooltip Animation dengan CSS",
       "description": "Komponen website tooltip animation dengan CSS.",
