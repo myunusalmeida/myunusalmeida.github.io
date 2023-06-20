@@ -1,7 +1,7 @@
 {
   "socials": {
     "linkedin": "https://www.linkedin.com/in/muhammad-yunusalmeida-801570207/",
-    "youtube": "https://www.youtube.com/@muhammadyunusalmeida9988",
+    "youtube": "https://www.youtube.com/@yunusalmeida",
     "github": "https://www.github.com/myunusalmeida",
     "instagram": "https://www.instagram.com/yunusalmeida_",
     "whatsapp": "https://wa.me/6285161363585",
@@ -80,10 +80,16 @@
       "link": "https://www.youtube.com/watch?v=4TEtR_HvCZk&t=255s"
     },
     {
+      "image": "migration-seeder.png",
+      "title": "MIGRATION DAN SEEDER PADA LARAVEL | DISERTA PENJELASAN DETAIL",
+      "type": "Laravel",
+      "link": "https://www.youtube.com/watch?v=__hlFs_vUmQ&t=3s"
+    },
+    {
       "image": "prefix-group.png",
       "title": "PREFIX ROUTE PADA LARAVEL DAN CARA PENGGUNAANNYA | DISERTA PENJELASAN DETAIL",
       "type": "Laravel",
-      "link": "https://youtu.be/3_nO4Mcr4mg"
+      "link": "https://www.youtube.com/watch?v=3_nO4Mcr4mg&t=4s"
     },
     {
       "image": "middleware-1.png",
