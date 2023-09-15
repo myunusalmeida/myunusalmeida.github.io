@@ -115,6 +115,12 @@ img {
 .card.contents h5 {
   font-size: 18px;
 }
+
+.card.contents img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+}
 @media screen and (max-width: 768px) {
   .card.contents h5 {
     font-size: 16px;

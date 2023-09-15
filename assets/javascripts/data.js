@@ -66,8 +66,7 @@ xhttp.onreadystatechange = function () {
     document.getElementById("tiktok").href = data.socials.tiktok;
 
     // JUMLAH DATA
-    document.getElementById("countyoutube").innerText =
-      data.youtube.length;
+    document.getElementById("countyoutube").innerText = data.youtube.length;
     document.getElementById("countsourcecode").innerText =
       data.sourcecode.length;
     document.getElementById("countecourses").innerText = data.ecourses.length;
