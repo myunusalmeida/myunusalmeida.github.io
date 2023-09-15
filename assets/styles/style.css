@@ -116,7 +116,7 @@ img {
   font-size: 18px;
 }
 
-.card.contents img {
+.card.source-code img {
   width: 100%;
   height: 260px;
   object-fit: cover;

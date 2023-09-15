@@ -7,7 +7,7 @@ xhttp.onreadystatechange = function () {
     data.sourcecode.forEach(function (e) {
       document.getElementById("contentSourceCode").innerHTML += `
             <div class="col-md-4">
-                <a href="${e.code}" class="card contents border-0 mb-3" target="_blank">
+                <a href="${e.code}" class="card contents source-code border-0 mb-3" target="_blank">
                     <img src="assets/images/contents/${e.image}" alt="${e.title}" loading="lazy" class="card-img-top" />
                     <div class="card-body">
                         <span class="badge bg-dark rounded-pill d-flex align-items-center text-center gap-2 fs-8 fw-semibold">
