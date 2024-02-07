@@ -106,13 +106,19 @@
       "image": "cover-ecourse-full-stack.png",
       "title": "E-Course Full-Stack Website Developer: Laravel Pride",
       "type": "Full-Stack Developer",
-      "link": "https://academy.onlenkan.com"
+      "link": "https://academy.onlenkan.com/kelas/full-stack-web-developer-belajar-dari-0-hingga-mahir-laravel-pride"
     },
     {
       "image": "cover-ecourse-laravel.png",
       "title": "E-Course Mastering Laravel: From Zero To Hero",
       "type": "Full-Stack Developer",
-      "link": "https://academy.onlenkan.com"
+      "link": "https://academy.onlenkan.com/kelas/mastering-laravel-from-zero-to-hero"
+    },
+    {
+      "image": "cover-ecourse-livewire-1.png",
+      "title": "E-Course Belajar Livewire Dasar: Membuat Todo List",
+      "type": "Full-Stack Developer",
+      "link": "https://academy.onlenkan.com/kelas/dasar-laravel-livewire-membuat-aplikasi-todo-list"
     }
   ],
   "youtube": [
